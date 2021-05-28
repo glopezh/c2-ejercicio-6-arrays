@@ -1,0 +1,1 @@
+# c2-ejercicio-6-arrays
